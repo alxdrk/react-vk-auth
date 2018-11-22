@@ -1,1 +1,3 @@
+// Test
+
 import './VkAuth';
