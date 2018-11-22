@@ -52,8 +52,6 @@ class VkLogin extends Component {
 
       const response = this.getResponseFromLocation();
 
-      console.log(response);
-
       if (!response) {
       }
     }
